@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="cmparts_title">Configurações CyanogenMod</string>
-    <string name="loading">Carregando\u2026</string>
+    <string name="loading">Carregando</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Cancelar</string>
     <string name="add">Adicionar</string>
@@ -93,8 +93,8 @@
     <string name="pulse_speed_very_slow">Muito devagar</string>
 
     <!-- Estilos de bateria -->
-    <string name="battery_title">Battery display</string>
-    <string name="statusbar_battery_summary">Definir o estilo da exibição da bateria da barra de status</string>
+    <string name="battery_title">Exibição da bateria</string>
+    <string name="statusbar_battery_summary">Definir o estilo da exibição da bateria na barra de status</string>
     <string name="battery_style_title">Estilo</string>
     <string name="battery_percent_title">Mostrar porcentagem</string>
     <string name="battery_percent_none">Nunca</string>
