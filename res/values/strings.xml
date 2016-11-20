@@ -42,7 +42,7 @@
     <string name="privacy_settings_category" translatable="false">CyanogenMod</string>
 
     <!-- Proteção a privacidade -->
-    <string name="privacy_guard_switch_label">Ativar a proteção a provacidade</string>
+    <string name="privacy_guard_switch_label">Ativar a proteção a privacidade</string>
     <string name="privacy_guard_dlg_title">Ativar a proteção de privacidade?</string>
     <string name="privacy_guard_dlg_text">Quando a proteção a privacidade estiver ativada, o aplicativo não poderá acessar dados pessoais, como contatos, mensagens ou logs de chamadas.</string>
     <string name="privacy_guard_dlg_system_app_text">Ao ativar a proteção a privacidade para um aplicativo interno, o aplicativo não poderá acessar ou fornecer dados pessoais. Isso pode fazer com que outros aplicativos se comportem mal.</string>
