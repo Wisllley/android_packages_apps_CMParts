@@ -38,7 +38,7 @@
     <string name="enabled">Ativado</string>
 
     <!-- Configurações de privacidade -->
-    <string name="privacy_settings_title">Pricacidade</string>
+    <string name="privacy_settings_title">Privacidade</string>
     <string name="privacy_settings_category" translatable="false">CyanogenMod</string>
 
     <!-- Proteção a privacidade -->
@@ -59,9 +59,9 @@
     <string name="privacy_guard_advanced_settings_title">Avançado</string>
     <string name="privacy_guard_notification_title">Mostrar notificação</string>
 
-    <!-- Barra de status do relógio -->
+    <!-- Relógio na barra de status -->
     <string name="ticker_screen_title">Relógio</string>
-    <string name="ticker_title">Status Barra do relógio</string>
+    <string name="ticker_title">Relógio na barra de status</string>
     <string name="ticker_screen_summary">Personalize o estilo do relógio</string>
     <string name="ticker_summary">Ativar a barra de status antiga</string>
     <string name="ticker_restore_defaults_title">Restaurar padrões</string>
@@ -72,7 +72,7 @@
 
     <!-- Diálogos de luz de notificação -->
     <string name="edit_light_settings">Editar configurações de luz</string>
-    <string name="pulse_speed_title">Comprimento e velocidade do pulso</string>
+    <string name="pulse_speed_title">Tempo e velocidade do pulso</string>
     <string name="default_time">Normal</string>
     <string name="custom_time">Personalizadas</string>
     <string name="dialog_delete_title">Deletar</string>
@@ -92,7 +92,7 @@
     <string name="pulse_speed_slow">Devagar</string>
     <string name="pulse_speed_very_slow">Muito devagar</string>
 
-    <!-- Estilos de bateria -->
+    <!-- Estilos da bateria -->
     <string name="battery_title">Exibição da bateria</string>
     <string name="statusbar_battery_summary">Definir o estilo da exibição da bateria na barra de status</string>
     <string name="battery_style_title">Estilo</string>
@@ -110,7 +110,7 @@
     <string name="statusbar_battery_charging_color_enable_summary"></string>
     <string name="battery_enable_title">Mostrar bateria</string>
  
-    <!-- Configurações da luz da bateria -->
+    <!-- Configurações de luz da bateria -->
     <string name="battery_light_title">Luz da bateria</string>
     <string name="battery_low_pulse_title">Piscar quando a bateria estiver fraca</string>
     <string name="battery_light_list_title">Cores</string>
@@ -191,7 +191,7 @@
     <string name="adj_intensity_title">Intensidade</string>
     <string name="adj_contrast_title">Contraste</string>
 
-    <!-- Configurações dos botoões -->
+    <!-- Configurações dos botões -->
     <string name="button_pref_title">Botões</string>
     <string name="hardware_keys_power_key_title">Botão de energia</string>
     <string name="hardware_keys_home_key_title">Botão home</string>
@@ -287,10 +287,10 @@
     <string name="profile_action_disable">Desligado</string>
     <string name="profile_action_enable">Ligado</string>
 
-    <string name="profile_trigger_a2dp_connect">On A2DP connect</string>
-    <string name="profile_trigger_a2dp_disconnect">On A2DP disconnect</string>
+    <string name="profile_trigger_a2dp_connect">Conectar A2DP</string>
+    <string name="profile_trigger_a2dp_disconnect">Desconectar A2DPt</string>
 
-    <string name="profile_tabs_wifi">Wi\u2011Fi</string>
+    <string name="profile_tabs_wifi">WiFi</string>
     <string name="profile_tabs_bluetooth">Bluetooth</string>
     <string name="profile_tabs_nfc">NFC</string>
 
@@ -304,13 +304,13 @@
 
     <string name="wireless_networks_settings_title">Redes &amp; sem fio</string>
 
-    <!-- Profile triggers -->
-    <string name="no_bluetooth_triggers">No Bluetooth devices paired.\nTap to pair Bluetooth device before configuring triggers.</string>
-    <string name="no_wifi_triggers">No Wi\u2011Fi access points configured.\nTap to connect Wi\u2011Fi before configuring triggers.</string>
-    <string name="no_triggers_configured">No triggers configured. Tap to add more.</string>
-    <string name="no_triggers_configured_nfc">Tap to setup a new NFC trigger.</string>
-    <string name="profile_setup_setup_triggers_description">Please select triggers which will activate this profile</string>
-    <string name="profile_setup_actions_description">Now configure what happens when the profile is activated</string>
+    <!-- Perfis de gatilho -->
+    <string name="no_bluetooth_triggers">Não há dispositivos Bluetooth emparelhados.\nToque para emparelhar o dispositivo Bluetooth antes de configurar gatilhos..</string>
+    <string name="no_wifi_triggers">Não há pontos de acesso WiFi configurados.\nToque para conectar WiFi antes de configurar gatilhos.</string>
+    <string name="no_triggers_configured">Nenhum gatilho configurado. Toque para adicionar mais.</string>
+    <string name="no_triggers_configured_nfc">Toque para configurar um novo gatilho NFC.</string>
+    <string name="profile_setup_setup_triggers_description">Selecione os gatilhos que ativarão este perfil</string>
+    <string name="profile_setup_actions_description">Agora configure o que acontece quando o perfil é ativado</string>
 
     <!-- Configurações de perfis  -->
     <string name="profiles_settings_title">Perfis do sistema</string>
@@ -383,7 +383,7 @@
     <string name="profile_trigger_disconnect">On disconnect</string>
     <string name="profile_trigger_notrigger">Sem gatilho</string>
 
-    <!-- Configurações de Perfil  dos modos de som -->
+    <!-- Configurações dos perfis dos modos de som -->
     <string name="sound_mode">Modo de notificação</string>
     <string name="ringer_mode">Modo de toque</string>
     <string name="lights_mode">Modo Luzes</string>
